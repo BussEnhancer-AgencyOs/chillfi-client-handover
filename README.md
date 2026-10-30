@@ -1,8 +1,5 @@
-# ChillFi Client Handover
+# ChillFi client handover
 
-- [Download full handover ZIP](https://github.com/BussEnhancer-AgencyOs/chillfi-client-handover/releases/download/client-handover-2026-10-31-r3/ChillFi-Client-Handover-2026-10-31-r3.zip)
-- [Download client setup PDF](https://github.com/BussEnhancer-AgencyOs/chillfi-client-handover/releases/download/client-handover-2026-10-31-r3/ChillFi-Client-Handover-Setup-Guide.pdf)
+[Download current R4 ZIP](https://github.com/BussEnhancer-AgencyOs/chillfi-client-handover/releases/download/client-handover-2026-10-31-r4/ChillFi-Client-Handover-2026-10-31-r4.zip) · [Setup PDF](https://github.com/BussEnhancer-AgencyOs/chillfi-client-handover/releases/download/client-handover-2026-10-31-r4/ChillFi-Client-Handover-Setup-Guide.pdf) · [Client/owner action list](https://github.com/BussEnhancer-AgencyOs/chillfi-client-handover/releases/download/client-handover-2026-10-31-r4/CLIENT-OWNER-ACTIONS.txt)
 
-Read the included setup and readiness documents for remaining client configuration steps.
-
-Latest package: revision 3 integration review. Production activation remains conditional; read the included verification report.
+Updated31October2026. Includes source, signed Androidcandidate, training andverification. Technicalpackage is updated; owner/provider actions remain. No real shipment/pickup wascreated. See includedReadinessreport andParcelworkflow. Earlierrevisions are historical. Main source repository remainsprivate.
